@@ -1,6 +1,6 @@
 {
   "name": "@kunukn/react-es2015",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Experimental - test ES2015 version of React",
   "main": "index.js",
   "scripts": {},
@@ -8,12 +8,17 @@
     "type": "git",
     "url": "git+https://github.com/kunukn/react-es2015.git"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kunukn/react-es2015/issues"
   },
-  "homepage": "https://github.com/kunukn/react-es2015#readme"
+  "homepage": "https://github.com/kunukn/react-es2015#readme",
+  "dependencies": {
+    "react-dom": "16.8.4"
+  }
 }
