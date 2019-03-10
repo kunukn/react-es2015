@@ -1,6 +1,6 @@
 {
   "name": "@kunukn/react-es2015",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Experimental - test ES2015 version of React",
   "main": "dist/react-dom.production.16.8.4.umd.es2015.min.js",
   "scripts": {},
